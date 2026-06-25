@@ -12,7 +12,7 @@ extern FILE *yyin;
 
 ofstream outlog;
 
-string line_num;
+int line_num;
 
 // TODO: declare yyerror(char*) and any helper functions here
 
